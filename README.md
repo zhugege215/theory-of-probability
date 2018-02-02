@@ -1,3 +1,2 @@
-# theory-of-probability
+# theory-of-probability > auther by W.C Zhu
 the python demo of probability theory
-> auther by W.C Zhu
